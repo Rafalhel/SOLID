@@ -50,9 +50,9 @@ conn.close()
 
 class Ecommerce:
     def __init__(self):
-        # Ecommerce de Relógios ou Roupas
+        # Ecommerce de Relógios
         self.nomeLoja = "Spartan's Store"
-        self.endereco = "Rua dos Bobos, 0"
+        self.endereco = "Rua X, 0"
         self.telefone = "(00) 0000-0000"
         self.cnpj = "01. 234. 567/0001-89"
 
